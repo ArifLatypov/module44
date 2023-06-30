@@ -22,3 +22,12 @@ h1 {
     font-size:  22px;
     font-family: 'Courier New', 'Courier';
 }
+
+.paragraph-4 {
+    text-shadow: 1px 1px 10px green;
+    font-style: italic;
+    font-size:  24px;
+    text-align: center;
+    
+
+}
